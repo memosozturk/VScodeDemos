@@ -10195,8 +10195,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/Views/Shared/menu.cshtml",
-      "TargetPath": "Views\\Shared\\menu.cshtml",
+      "FilePath": "/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/Views/Shared/_menu.cshtml",
+      "TargetPath": "Views\\Shared\\_menu.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -10227,6 +10227,11 @@
     {
       "FilePath": "/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/Views/Shared/_footer.cshtml",
       "TargetPath": "Views\\Shared\\_footer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/Views/Home/_movies.cshtml",
+      "TargetPath": "Views\\Home\\_movies.cshtml",
       "FileKind": "mvc"
     }
   ],
