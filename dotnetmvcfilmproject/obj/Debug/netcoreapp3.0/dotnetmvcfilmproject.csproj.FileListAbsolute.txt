@@ -36,3 +36,7 @@
 /home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/dotnetmvcfilmproject.pdb
 /home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/dotnetmvcfilmproject.genruntimeconfig.cache
 /home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/dotnetmvcfilmproject.csproj.CopyComplete
+/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/bin/Debug/netcoreapp3.0/package-lock.json
+/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/bin/Debug/netcoreapp3.0/package.json
+/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_footer.cshtml.g.cs
+/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_navbar.cshtml.g.cs
