@@ -4,15 +4,15 @@
         <div class="card mb-3">
     <div class="row no-gutter">
         <div class="col-md-3">
-            <img src="~/img/1.jpg" alt="" class="card-img">
+            <img src="~/img/@movie.Imageurl" alt="@movie.Description" class="card-img">
         </div>
         <div class="col-md-9">
             <div class="card-body">
                 <h5 class="card-title">
-                    High Life
+                 <a asp-action="Details" asp-controller="Home" asp-route-id="@movie.Id">  @movie.Name</a>
                 </h5>
                 <p class="card-text">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, animi.
+                    @movie.Description
                 </p>
                 <p class="card-text">
                     <small class="text-muted">
