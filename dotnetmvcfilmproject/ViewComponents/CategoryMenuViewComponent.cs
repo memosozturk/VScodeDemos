@@ -7,6 +7,8 @@ namespace dotnetmvcfilmproject.ViewComponents
     {
         public IViewComponentResult Invoke()
         {
+            if (RouteData.Values["Action"].ToString()=="Index")
+            ViewBag.SelectedCategory=RouteData?.Values["id"];
             return View(CategoryRepository.Categories);
 
         }
