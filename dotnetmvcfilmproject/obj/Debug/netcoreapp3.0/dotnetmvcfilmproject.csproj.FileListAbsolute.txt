@@ -43,3 +43,4 @@
 /home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/Razor/Views/Home/_movies.cshtml.g.cs
 /home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_menu.cshtml.g.cs
 /home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/Razor/Views/Home/Details.cshtml.g.cs
+/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/obj/Debug/netcoreapp3.0/Razor/Views/Shared/Components/CategoryMenu/Default.cshtml.g.cs

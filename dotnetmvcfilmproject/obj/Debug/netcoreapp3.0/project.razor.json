@@ -8709,6 +8709,23 @@
         }
       },
       {
+        "HashCode": 339686150,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__CategoryMenuViewComponentTagHelper",
+        "AssemblyName": "dotnetmvcfilmproject",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:category-menu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__CategoryMenuViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "CategoryMenu"
+        }
+      },
+      {
         "HashCode": 899238057,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -10182,6 +10199,11 @@
     {
       "FilePath": "/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/Views/Movie/List.cshtml",
       "TargetPath": "Views\\Movie\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/Views/Shared/Components/CategoryMenu/Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
       "FileKind": "mvc"
     },
     {

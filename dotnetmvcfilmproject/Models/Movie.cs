@@ -7,6 +7,6 @@ namespace dotnetmvcfilmproject.Models
         public string ShortDescription { get; set; }
         public string Description { get; set; }
         public string Imageurl { get; set; }
+        public int CategoryId { get; set; }
     }
 }
-//videoda 50.dakika 39.saniyede kaldım 22:07 11 ekim 
