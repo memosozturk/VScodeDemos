@@ -10200,6 +10200,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/Views/Home/Details.cshtml",
+      "TargetPath": "Views\\Home\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/memosozturk/Repositories/VScodeDemos/dotnetmvcfilmproject/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
