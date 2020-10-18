@@ -21,7 +21,7 @@
                             <a asp-action="Details" asp-controller="Home" asp-route-id="@Model.Id"> @Model.Name</a>
                         </h5>
                         <p class="card-text">
-                            @Model.Description
+                            @Html.Raw(Model.Description)
                         </p>
                         <p class="card-text">
                             <small class="text-muted">
