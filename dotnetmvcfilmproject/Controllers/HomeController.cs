@@ -1,3 +1,4 @@
+using dotnetmvcfilmproject.Data;
 using dotnetmvcfilmproject.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,11 +9,12 @@ namespace dotnetmvcfilmproject.Controllers
     
     public IActionResult Index()
     {
-        return View(Repository.Movies);
+        //
+        return View();
     }
 
     public IActionResult Details(int id){
-        return View(Repository.GetById(id));
+        return View(MovieRepository.GetById(id));
     }
     public IActionResult Contact()
     {

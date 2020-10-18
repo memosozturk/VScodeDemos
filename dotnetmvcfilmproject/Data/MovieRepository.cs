@@ -1,12 +1,13 @@
 using System.Collections.Generic;
 using System.Linq;
+using dotnetmvcfilmproject.Models;
 
-namespace dotnetmvcfilmproject.Models
+namespace dotnetmvcfilmproject.Data
 {
-    public class Repository
+    public class MovieRepository
     {
         private static List<Movie> _movies=null;
-        static Repository(){
+        static MovieRepository(){
             _movies =new List<Movie>()
             {
                 new Movie(){
